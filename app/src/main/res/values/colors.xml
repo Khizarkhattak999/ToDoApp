@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="toolbar_bg">#FD6B6B</color>
+    <color name="transparent">#00FFFF00</color>
+    <color name="date_bg">#FDE5C9</color>
+
+</resources>
