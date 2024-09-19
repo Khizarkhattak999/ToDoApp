@@ -10,8 +10,8 @@ FEATURES
 
 
 1. Add Tasks: Users can add new tasks with a description.
-2. View Tasks: View the list of all tasks with their statuses.
-3. Update Tasks: Modify existing tasks or mark them as completed.
+2. View Tasks: View the list of all tasks.
+3. Update Tasks: Modify existing tasks.
 4. Delete Tasks: Remove tasks from the list.
 5. Share: Share your tasks with your Friends on Social Media.
 
