@@ -20,3 +20,9 @@ Technologies Used
 
 1. JAVA
 2. ANDROID STUDIO (IDE USED)
+
+INSTALLATION
+
+1. Run the below command in your desired location where you want this project.
+
+git clone https://github.com/Khizarkhattak999/ToDoApp.git  
